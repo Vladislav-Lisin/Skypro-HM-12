@@ -24,5 +24,8 @@ public class Main {
 
         threeLoads.setYear(1966);
         System.out.println(threeLoads.getYear());
+
+        System.out.println("Книга 1: " + warAndPeace);
+        System.out.println("\nКнига 2: " + threeLoads);
     }
 }
